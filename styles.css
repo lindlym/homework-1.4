@@ -1,0 +1,10 @@
+.main-container {
+    text-align: center;
+}
+
+.square {
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border: 1px black solid;
+}

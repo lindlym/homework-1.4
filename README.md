@@ -1,6 +1,7 @@
 # JavaScript Homework (1.3)
 
 Open the homework.js file in order to get started. Read the prompt in order to accomplish the task.
+**YOU SHOULD NOT NEED TO EDIT ANY FILE ON THIS BESIDES THE HOMEWORK JAVASCRIPT FILE!**
 
 ## Steps to Get Started
 

@@ -7,10 +7,4 @@
 
 
 
-let square = document.getElementsByClassName("square")[0];
-let circle = document.createElement("div");
 
-circle.classList.add("square");
-circle.style.borderRadius = "50%";
-
-square.appendChild(circle);
